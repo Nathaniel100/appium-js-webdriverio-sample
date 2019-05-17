@@ -1,0 +1,23 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "Appium Javascript webdriverio Sample Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "appium",
+    "javascript"
+  ],
+  "author": "wufan",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "chai": "^4.1.2",
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.13.0",
+    "mocha": "^6.0.0",
+    "webdriverio": "^5.7.12"
+  }
+}
